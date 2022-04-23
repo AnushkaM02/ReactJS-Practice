@@ -8,6 +8,7 @@ import IMG5 from '../../assets/portfolio1.jpg'
 import IMG6 from '../../assets/portfolio1.jpg'
 // For now just using 1 image for convenience
 
+// Map through the array of portfolio items
 const data = [
   {
     id: 1,
